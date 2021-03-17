@@ -10,6 +10,8 @@ step 1 -> Install npm modules and packages[For safety]
               
 step 2 ->  To Run in local host 
          cmd - node app.js / nodemon app.js [install nodemon globally using npm install -g nodemon]
+         
+         
 step 3 -> write localhost in searchbar
          
          
