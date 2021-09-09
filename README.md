@@ -1,4 +1,4 @@
-# HackerNews-Clone
+# Tech News -Clone
 
 ** Be carefull with the path **
 
